@@ -189,12 +189,12 @@ nav {
 /* EXTRA SMALL DEVICES (Portrait Phones, 320px and up) */
 @media (min-width: 320px) and (max-width: 575.98px) {
   .hero-container {
-    height: 65vh;
+    height: 130vh;
     flex-direction: column-reverse;
     margin: 50px 0;
   }
   .hero-title {
-    font-size: 32px;
+    font-size: 25px;
     line-height: 1.5;
   }
   .content-container {
